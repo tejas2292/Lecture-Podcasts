@@ -8,6 +8,8 @@ Considering mobile applications are extensively used and are known for their eas
 
 ### Proposed Solution :
 
+This project proposes a "Listening Podcasts, i.e. Lecture Recordings," in which faculty members would submit their recordings with the assistance of administration. The files are played using the media player, which has functions such as forward, backward, next, back, and hovering to any point of the recording. The project's scope is to extend it for other institutions and also to make it as no administrative support.
+
 ![screenshot](https://user-images.githubusercontent.com/65388565/147885817-0c736eec-3c11-4918-ba84-8c8366c0a94f.png)
 ---
 
