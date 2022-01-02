@@ -8,7 +8,7 @@ Considering mobile applications are extensively used and are known for their eas
 
 ### Proposed Solution :
 
-![usecase](https://drive.google.com/file/d/1_6HqKG2eJYJ2HRs3_2fijq3uLiWdw8QA/view?usp=sharing)
+![screenshot](https://user-images.githubusercontent.com/65388565/147885817-0c736eec-3c11-4918-ba84-8c8366c0a94f.png)
 ---
 
 ### Functionality & Concepts used :
