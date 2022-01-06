@@ -27,6 +27,6 @@ Simple & Easy Views Design: Use of familiar audience TextView and interactive Im
 ---
 
 ### Application Link & Future Scope :
-You can access the app : [YOUR APP LINK HERE] (either Github link or Google Play store link of published app or .apk file).
+You can access the app : [YOUR APP LINK HERE] (https://play.google.com/store/apps/details?id=com.tejas.lecturepodcasts).
 
 We intend to make this app login-based in the future, so that teachers can upload their recordings without the need for administrative support.
